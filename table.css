@@ -11,3 +11,7 @@ table {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Ipouvg0Tw62Ecv7noUWrB76tDDIYP5sDDv2l2LJ_eGE_PKqX")
 }
 
+.foto{
+  width: 180px; 
+  height: 200px;
+}
